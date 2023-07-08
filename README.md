@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @subhanayaz
 - 👀 I’m interested in Developing Applications
-- 🌱 I’m currently learning ReactJS, Python
+- 🌱 I’m currently learning ReactJS, NodeJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me [subhanayaz.fun](https://subhanayaz.fun/)
 
